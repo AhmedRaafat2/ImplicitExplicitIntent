@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImplicitExplicitIntent</string>
+    <string name="email">Go to your email</string>
+</resources>
